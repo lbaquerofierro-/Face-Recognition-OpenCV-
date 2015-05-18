@@ -4,7 +4,7 @@ This program demonstrates simple face recognition in C++ using the FaceRecognize
 
 The program uses the at&t database (http://www.cl.cam.ac.uk/research/dtg/attarchive.facedatabase.html) which contains ten different images from 40 different subjects. Of these, 300 images are used to train the model while the other 100 images are stored in a database and are used for testing purposes. Both sets of images are read from a CSV file containing the path of each image as well as a label that identifies each individual. 
 
-	at\s1\1.pgm;0
+at\s1\1.pgm;0
 at\s1\2.pgm;0
 …
 at\s1\10.pgm;0
